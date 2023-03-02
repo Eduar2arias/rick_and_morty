@@ -1,0 +1,30 @@
+.container_nav{
+    /* width: 80%; */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.home, .about{
+    width: fit-content;
+    background-color: rgb(221, 252, 15);
+    border-radius: 16px;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    border: 2px solid black;
+
+}
+
+.home h2, .about h2{
+  font-size: 1rem;
+  /* margin: 1rem; */
+  padding: 0 5px;
+  padding: 5px;
+
+}
+.home:hover, .about:hover{
+   
+    background-color: beige;    
+  }

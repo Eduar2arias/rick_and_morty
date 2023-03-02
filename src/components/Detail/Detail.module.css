@@ -1,0 +1,33 @@
+.container_detail {
+    display: flex;
+    
+}
+
+.container_detail h1{
+    color: white;
+}
+
+.detail{
+    background-color: rgba(255, 255, 255, 0.749);
+    width: 40%;
+    margin: 2%;
+    margin: 10px auto;
+}
+
+
+.list h2{
+    background-color:  rgb(221, 252, 15);
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 3px;
+    border-radius: 0 10px 10px 0;
+    margin: 5px;
+    
+    
+}
+
+.list h2:hover{
+    background-color: white;
+}
+

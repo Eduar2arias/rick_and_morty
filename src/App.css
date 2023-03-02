@@ -1,0 +1,24 @@
+.App {
+   text-align: center;
+   /* background-image: linear-gradient(to right, green,yellow); */
+   background-image: url(img/0aeb52af3cb13c91c0aead5aba52480f.jpg);
+   background-size: 100% ;
+   min-width: 600px;
+   min-height: 100vh;
+}
+
+.container-card{
+   display: flex;
+   justify-content: center;
+}
+
+.container-search{
+   width: 100%;
+   background-color: rgba(142, 251, 142,0.5);
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: flex-end;
+}
+
+

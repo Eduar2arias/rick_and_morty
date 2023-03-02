@@ -1,0 +1,17 @@
+.container{
+    background-color: beige;
+    width: fit-content;
+    margin: 10%  auto;
+    padding: 2rem;
+    /* display: flex;
+    align-items: center; */
+
+}
+
+.container div > label {
+    display: inline-block;
+    min-width: 8rem;
+    margin-right: 1rem;
+    text-align: left;
+}
+
